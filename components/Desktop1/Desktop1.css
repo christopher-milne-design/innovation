@@ -1,0 +1,11 @@
+.desktop-1 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 1365.33px;
+  padding: 170.6px 0;
+  position: relative;
+  width: 1920px;
+}
+
